@@ -42,3 +42,22 @@ Welcome! This log details my day-to-day journey and milestones during my interns
 📝 Drafted a comprehensive system requirements specification document.
 
 ---
+
+## 🗓️ Week 3
+
+**26/05/2024 (Monday):**
+🎨 Explored user interface frameworks and design options for optimal usability and accessibility.
+
+**27/05/2024 (Tuesday):**
+💻 Learned the fundamentals of .NET and WPF for modern desktop application development.
+
+**28/05/2024 (Wednesday):**
+🏗️ Built the initial skeleton of the .NET application, establishing the core UI structure.
+
+**29/05/2024 (Thursday):**
+🔗 Engineered the integration layer between the WPF frontend and Python-based gesture engine.
+
+**30/05/2024 (Friday):**
+🧪 Tested the basic application workflow to ensure functional interoperability between components.
+
+---
