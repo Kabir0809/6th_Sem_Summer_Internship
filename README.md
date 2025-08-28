@@ -34,3 +34,11 @@ Welcome! This log details my day-to-day journey and milestones during my interns
 
 **21/05/2024 (Wednesday):**
 🧠 Researched and planned technical solutions for gesture-based therapeutic gaming.
+
+**22/05/2024 (Thursday):**
+🎲 Compared various game genres and engines for suitability in rehabilitation contexts.
+
+**23/05/2024 (Friday):**
+📝 Drafted a comprehensive system requirements specification document.
+
+---
