@@ -159,3 +159,9 @@ Welcome! This log details my day-to-day journey and milestones during my interns
 
 ---
 
+🔔 **Conclusion:**
+
+This log highlights my journey through a dynamic, hands-on internship focused on building a clinically relevant, user-friendly therapeutic gaming solution. Each week brought new challenges, learning opportunities, and rewarding progress as I collaborated with clinicians, explored new technologies, and contributed to a project with real-world impact.
+
+Importantly, the AirSync project is still ongoing! 🚧 We continue to innovate, test, and expand the system to support more patients and new rehabilitation scenarios. I look forward to further contributions and new milestones as the project evolves. �
+
