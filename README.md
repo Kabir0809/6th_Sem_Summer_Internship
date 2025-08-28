@@ -61,3 +61,23 @@ Welcome! This log details my day-to-day journey and milestones during my interns
 🧪 Tested the basic application workflow to ensure functional interoperability between components.
 
 ---
+
+## 🗓️ Week 4
+
+**02/06/2024 (Monday):**
+📦 Researched packaging and deployment strategies for cross-environment compatibility.
+
+**03/06/2024 (Tuesday):**
+📜 Developed batch scripts to automate the creation of secure, independent deliverable packages.
+
+**04/06/2024 (Wednesday):**
+🔄 Integrated and improved the batch script pipeline for robust deployment automation.
+
+**05/06/2024 (Thursday):**
+✨ Enhanced the application’s user interface and overall usability based on feedback.
+
+**06/06/2024 (Friday):**
+👥 Conducted stakeholder meetings to gather clinical feedback and validate system features.
+
+---
+
