@@ -15,3 +15,11 @@ Welcome! This log details my day-to-day journey and milestones during my interns
 
 **14/05/2024 (Wednesday):**
 🤚 Transitioned the gesture recognition system from finger tracking to robust hand gesture detection for improved control fidelity.
+
+**15/05/2024 (Thursday):**
+🎮 Integrated and validated vGamePad for seamless virtual controller support within the system.
+
+**16/05/2024 (Friday):**
+🔄 Refined and updated gesture-to-control mappings to optimize responsiveness and therapeutic relevance.
+
+---
