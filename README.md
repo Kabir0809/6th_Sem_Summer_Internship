@@ -81,3 +81,21 @@ Welcome! This log details my day-to-day journey and milestones during my interns
 
 ---
 
+## 🗓️ Week 5
+
+**09/06/2024 (Monday):**
+🎮 Explored gamification strategies for upper limb therapy to increase patient engagement.
+
+**10/06/2024 (Tuesday):**
+📝 Compiled a list of suitable games for patients with motor impairments.
+
+**11/06/2024 (Wednesday):**
+🕹️ Tested and evaluated shortlisted games for therapeutic efficacy and system compatibility.
+
+**12/06/2024 (Thursday):**
+🔗 Integrated selected games with the gesture recognition system.
+
+**13/06/2024 (Friday):**
+🎯 Mapped gesture outputs to in-game actions for real-time, intuitive gameplay.
+
+---
