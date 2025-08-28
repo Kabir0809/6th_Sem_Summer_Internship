@@ -23,3 +23,14 @@ Welcome! This log details my day-to-day journey and milestones during my interns
 🔄 Refined and updated gesture-to-control mappings to optimize responsiveness and therapeutic relevance.
 
 ---
+
+## 🗓️ Week 2
+
+**19/05/2024 (Monday):**
+🤝 Collaborated with physiotherapists to capture clinical goals and align system features with rehabilitation objectives.
+
+**20/05/2024 (Tuesday):**
+🧑‍⚕️ Analyzed patient conditions and therapy requirements through direct observation and staff interviews.
+
+**21/05/2024 (Wednesday):**
+🧠 Researched and planned technical solutions for gesture-based therapeutic gaming.
