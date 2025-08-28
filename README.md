@@ -99,3 +99,23 @@ Welcome! This log details my day-to-day journey and milestones during my interns
 🎯 Mapped gesture outputs to in-game actions for real-time, intuitive gameplay.
 
 ---
+
+## 🗓️ Week 6
+
+**16/06/2024 (Monday):**
+📑 Documented the completion of phase one for client delivery.
+
+**17/06/2024 (Tuesday):**
+🎨 Designed the user interface for game integration within the application.
+
+**18/06/2024 (Wednesday):**
+🕹️ Enabled direct game access and management through the application UI.
+
+**19/06/2024 (Thursday):**
+✨ Improved the app’s UI/UX design for better accessibility and user experience.
+
+**20/06/2024 (Friday):**
+🧪 Tested and enhanced the automated build script for deployment.
+
+---
+
