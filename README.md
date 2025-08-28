@@ -9,3 +9,9 @@ Welcome! This log details my day-to-day journey and milestones during my interns
 
 **12/05/2024 (Monday):**
 🔍 Conducted an in-depth review of MediaPipe and OpenCV frameworks to evaluate their suitability for real-time gesture recognition.
+
+**13/05/2024 (Tuesday):**
+🛠️ Defined coding standards and set up the initial project environment to ensure maintainability and scalability.
+
+**14/05/2024 (Wednesday):**
+🤚 Transitioned the gesture recognition system from finger tracking to robust hand gesture detection for improved control fidelity.
