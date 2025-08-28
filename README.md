@@ -137,3 +137,25 @@ Welcome! This log details my day-to-day journey and milestones during my interns
 🔒 Secured deliverables by protecting source code in distributed packages.
 
 ---
+
+## 🗓️ Week 8
+
+**30/06/2024 (Monday):**
+⚡ Researched PyTorch and CUDA for potential system expansion and acceleration.
+
+**01/07/2024 (Tuesday):**
+🦾 Studied YOLO for object and full-body detection capabilities.
+
+**02/07/2024 (Wednesday):**
+🧍‍♂️ Explored integration of full-body tracking into the application.
+
+**03/07/2024 (Thursday):**
+🎭 Researched background masking techniques to improve gesture recognition accuracy.
+
+**04/07/2024 (Friday):**
+🔬 Continued research and experimentation with background masking for enhanced system performance.
+
+---
+
+---
+
